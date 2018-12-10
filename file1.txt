@@ -17,3 +17,12 @@ git push -u origin master
 git log
 git --help
 
+BRANCHING
+====================
+git branch "testbranch"
+git checkout "testbranch"
+git push -u origin testbranch
+for merge:
+git checkout master
+git merge "testbranch"
+git push -u origin master
