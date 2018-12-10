@@ -1,1 +1,1 @@
-file1.txt
+git checkout -- <file name> ...to discard change
