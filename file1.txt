@@ -1,1 +1,7 @@
 git checkout -- <file name> ...to discard change
+
+git config --global user.email "kannan.anil2004@gmail.com"
+git config --global user.name "kannanrt"
+
+git remote add origin https://github.com/Kannanrt/repo1.git
+git push -u origin master
