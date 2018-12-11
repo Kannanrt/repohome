@@ -30,3 +30,15 @@ delete branch
 git branch -d testbranch
 git push origin --delete testbranch
 
+
+git tags
+================
+git checkout master
+git tag v1.0
+git tag -a v1.1 -m "first version"
+git tag
+git show v1.0
+git push --tag
+
+git tag -d v1.0
+git push origin -d v1.0
