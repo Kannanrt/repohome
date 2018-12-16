@@ -2,3 +2,15 @@ Meditation and going beyond Mindfullness
 https://www.youtube.com/watch?v=ukTaodQfYRQ
 
 added in github this line
+
+running jenkins from cmd line
+https://www.youtube.com/watch?v=ylWHMnbBzC0&list=PLhW3qG5bs-L8T-0JT464rkIvnUz5q4CQC&index=3
+
+docker 12 session
+https://www.youtube.com/watch?v=wi-MGFhrad0&list=PLhW3qG5bs-L99pQsZ74f-LC-tOEsBp2rK
+Docker is world's leading s/w container platform
+
+Docker -v
+docker --help
+to reduce the lengthy prompt to username alone
+export PS1="\u$ "
