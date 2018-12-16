@@ -42,3 +42,7 @@ git push --tag
 
 git tag -d v1.0
 git push origin -d v1.0
+
+to get in other system
+======================
+git clone <git url>
