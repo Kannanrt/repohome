@@ -1,3 +1,5 @@
+clone
+
 
 git program in "C", platform independent
 github is website to keep your repository
